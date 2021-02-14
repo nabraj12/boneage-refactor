@@ -25,8 +25,9 @@
 		│		├───orignal validation png images(required)
 		│   └───valid_pre
 		│		├───BLANK Directory(preprocessed images will be stored)
+
 		│
-	   	│	├───train.csv(required)
+	   		├───train.csv(required)
 		│   ├───valid.csv(required)
 		│   └───test.csv(required)
 
