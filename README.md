@@ -2,8 +2,8 @@
 
 1) Required directories and files
 
-	├───boneage-refactor
-			├───exploration.py
+	├───boneage-refactor                                 
+				├───exploration.py
 					├───preprocess.py
 		├───checking.py
 		├───train.py
