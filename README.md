@@ -14,9 +14,9 @@
 		├───test_unittest.py
 		├───mini_dataset
 		│   ├───test
-		│	│	├───orignal test png images(required)
+		│		├───orignal test png images(required)
 		│   ├───test_pre
-		│	│	├───BLANK Directory(preprocessed images will be stored)
+		│		├───BLANK Directory(preprocessed images will be stored)
 		│   ├───train
 		│	│	├───orignal train png images(required)
 		│   ├───train_pre
