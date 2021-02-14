@@ -33,12 +33,9 @@
 		python main.py -i INPUT1 -c INPUT2 -t INPUT3 -v INPUT4 -p INPUT5
 
 		INPUT1: True or False- True- if image preprocessing is required
-		INPUT2: True or False- True- if images need to be checked for 
-												missing or corruption
+		INPUT2: True or False- True- if images need to be checked for missing or corruption
 		INPUT3: True or False- True- if model training is required
-		INPUT4: True or False- True- if prediction is needed on 
-													validation images
-		INPUT5: True or False- True- if prediction on test images is
-															 	required
+		INPUT4: True or False- True- if prediction is needed on validation images
+		INPUT5: True or False- True- if prediction on test images is required
 3) For help: python main.py -h
 
