@@ -2,13 +2,11 @@
 
 1) Required directories and files
 
-	├───boneage-refactor                                 
+	├───boneage-refactor    
+
 		├───exploration.py
-
 		├───preprocess.py
-
 		├───checking.py
-		
 		├───train.py
 		├───predict.py
 		├───main.py
