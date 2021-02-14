@@ -18,13 +18,14 @@
 		│   ├───test_pre
 		│		├───BLANK Directory(preprocessed images will be stored)
 		│   ├───train
-		│	│	├───orignal train png images(required)
+		│		├───orignal train png images(required)
 		│   ├───train_pre
-		│	│	├───BLANK Directory(preprocessed images will be stored)
+		│		├───BLANK Directory(preprocessed images will be stored)
 		│   ├───valid
-		│	│	├───orignal validation png images(required)
+		│		├───orignal validation png images(required)
 		│   └───valid_pre
-		│	│	├───BLANK Directory(preprocessed images will be stored)
+		│		├───BLANK Directory(preprocessed images will be stored)
+		│
 	   	│	├───train.csv(required)
 		│   ├───valid.csv(required)
 		│   └───test.csv(required)
